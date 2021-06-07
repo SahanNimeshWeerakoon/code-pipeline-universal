@@ -22,4 +22,4 @@ phases:
       - ng build --prod
 artifacts:
   files:
-    - "dist/**/*"
+    - "**/*"
